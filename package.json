@@ -1,0 +1,14 @@
+{
+  "name": "chhobi-backend",
+  "version": "1.0.0",
+  "description": "photo gallery databse deploy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Md. Miraz Uddin",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
